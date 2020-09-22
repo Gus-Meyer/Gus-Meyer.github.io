@@ -1,4 +1,10 @@
 #welcome{
   font-size: 48px;
   color: rgb(247, 147, 0);
+  text-align: center;
+}
+#main{
+  font-size: 14px;
+  color: rgb(247, 147, 0);
+  text-align: justify;
 }
