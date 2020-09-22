@@ -8,3 +8,8 @@
   color: rgb(247, 147, 0);
   text-align: justify;
 }
+img.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
